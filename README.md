@@ -30,8 +30,8 @@ Frontend: JavaScript • Next.js • ReactJS  • HTML • CSS • TailwindCSS �
 Backend: Node.js  • MongoDB 
 
 Others: Git • GitHub • Postman • VS code • Vercel • Cloudinary
-Education
 
+Education
 Masters of Computer Application (MCA)
 Maharshi Dayanand University (2023 – 2025)
 
@@ -40,8 +40,8 @@ Maharshi Dayanand University (2020 – 2023)
 
 12th CBSE
 Sanjeevani Public School (2019 - 2020)
-Training
 
+Training
 Java Full Stack Development – Jspider
 Certification / Courses
 
