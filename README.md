@@ -32,6 +32,7 @@ Backend: Node.js  • MongoDB
 Others: Git • GitHub • Postman • VS code • Vercel • Cloudinary
 
 Education
+
 Masters of Computer Application (MCA)
 Maharshi Dayanand University (2023 – 2025)
 
@@ -42,6 +43,7 @@ Maharshi Dayanand University (2020 – 2023)
 Sanjeevani Public School (2019 - 2020)
 
 Training
+
 Java Full Stack Development – Jspider
 Certification / Courses
 
