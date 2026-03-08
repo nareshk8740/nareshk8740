@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nareshkumar8740908405&theme=tokyo-night&hide_border=true&area=true&color=FF6600" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nareshk8740&theme=tokyo-night&hide_border=true&area=true&color=FF6600" width="100%" />
 </p>
 
 </div>
